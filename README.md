@@ -1,3 +1,5 @@
 # appd
 
-A description of this project.
+Project Shards application Daemon
+
+
