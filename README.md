@@ -30,7 +30,7 @@ or create an issue!
 
 No.
 
-
+<!--
 ## 🖥️ Installation
 
 Install my-project with npm
@@ -85,7 +85,7 @@ function App() {
   return <Component />
 }
 ```
-
+-->
 
 ## ✍️ Authors
 
